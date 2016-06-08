@@ -71,7 +71,7 @@ instructional team and classmates, please follow the
 | Robbie	Smoot        | 	robbiesmoot@gmail.com         | 	
 | Roshanak	Omrani     | 	romrani@g.ucla.edu            | 	
 | Ryan	Gin            | 	chinkook123@gmail.com         | 	
-| Shahram Farhadi      | 	Nia	farhadin@usc.edu          | 	
+| Shahram Farhadi      | 	farhadin@usc.edu          | 	
 | Shirley	Ho           | 	hshirl@hotmail.com            | 	
 | Tiffany	Wilson       | 	tiffany@twrealestategroup.com |
 
