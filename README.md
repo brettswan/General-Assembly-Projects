@@ -31,7 +31,7 @@ instructional team and classmates, please follow the
 | **Course Producer**       | Sarah Carr         | @sarahcarr          | sarah.carr@ga.co         | [sarahcarr][sarahcarr] |
 | **Instructor**            | Pauline Chow       | @pauline.chow       | pauline.chow@ga.co       | [pauline][pauline]     |
 | **Instructor**            | John Marin         | @john.marin         | john.marin@ga.co         | [j-a-marin][j-a-marin] |
-| **Junior Instructor**     | Mike Ludwig        | @mikeludwig         | ludbox@hotmail.com       | [mikeludwig][mikeludwig] |
+| **Junior Instructor**     | Mike Ludwig        | @mikeludwig         | ludbot@hotmail.com       | [mikeludwig][mikeludwig] |
 | **Instructional Support** | Meredith Bryan     | @meredith           | meredith.bryan@ga.co     | [mer8][mer8]           |
 
 [sarahcarr]: https://github.com/SarahCarr
@@ -55,6 +55,25 @@ instructional team and classmates, please follow the
 
 | Name                 | Email                          | [Slack](https://ga-students.slack.com) | GitHub             |
 |----------------------|:------------------------------:|:-----------------:|:---------------------------------------:|
+| Brett	Swan	         | swan107@mail.chapman.edu       | 
+| Chris	Shoe	         | chris.m.shoe@gmail.com         | 
+| Christine	Yi	       | ecy0218@gmail.com              | 
+| Colin	Clemence	     | cjclemence@yahoo.com           | 
+| Isaac	Moore	         | isaacymoore@gmail.com          | 
+| Leslie Pham          | phamleslie159@gmail.com        | 
+| Melanie Okamuro      | melanie.okamuro@gmail.com      | 
+| Michael	Frantz       | 	michaelgfrantz@gmail.com      | 
+| Michael	Gat          | 	mg@michaelgat.com             | 
+| Nicole	Fergie       | 	nicolefergie22@gmail.com      | 	
+| Omar	Aguilar        | 	omar.aguilar@richmond.edu     | 	
+| Omeed	Selbe          | 	oselbe@gmail.com              | 	
+| Paul	Trichon        | 	paul.trichon@gmail.com        | 	
+| Robbie	Smoot        | 	robbiesmoot@gmail.com         | 	
+| Roshanak	Omrani     | 	romrani@g.ucla.edu            | 	
+| Ryan	Gin            | 	chinkook123@gmail.com         | 	
+| Shahram Farhadi      | 	Nia	farhadin@usc.edu          | 	
+| Shirley	Ho           | 	hshirl@hotmail.com            | 	
+| Tiffany	Wilson       | 	tiffany@twrealestategroup.com |
 
 
 ## Important Dates
