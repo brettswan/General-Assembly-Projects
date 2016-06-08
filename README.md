@@ -34,7 +34,7 @@ instructional team and classmates, please follow the
 | **Junior Instructor**     | Mike Ludwig        | @mikeludwig         | ludbox@hotmail.com       | [mikeludwig][mikeludwig] |
 | **Instructional Support** | Meredith Bryan     | @meredith           | meredith.bryan@ga.co     | [mer8][mer8]           |
 
-[judemolke]: https://github.com/SarahCarr
+[sarahcarr]: https://github.com/SarahCarr
 [pauline]:   https://github.com/powchow
 [j-a-marin]:https://github.com/j-a-marin
 [mikeludwig]: https://github.com/mikeludwig
