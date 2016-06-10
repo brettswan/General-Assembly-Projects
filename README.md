@@ -36,18 +36,18 @@ instructional team and classmates, please follow the
 
 [sarahcarr]: https://github.com/SarahCarr
 [pauline]:   https://github.com/powchow
-[j-a-marin]:https://github.com/j-a-marin
+[j-a-marin]: https://github.com/j-a-marin
 [mikeludwig]: https://github.com/mikeludwig
 [mer8]:      https://github.com/mer8  
 
-### TAs
+### Office Hours
 
 | Time           | Name            | Slack      | Email                   | GitHub                                        |
 |----------------|-----------------|:----------:|:-----------------------:|:---------------------------------------------:|
-| Mon. nights    | Yael Amir       | @yaelamir  | yael.amir@ga.co         | [yaelamir](https://github.com/yaelamir)       |
-| Tue  nights    | Gev Gharadaghi  | @gogev     | gevork.gharadaghi@ga.co | [gev326](https://github.com/gev326)           |
-| Wed. nights    | Tim Kim         | @timkim    | tim.kim@ga.co           | [Teembokeem](https://github.com/Teembokeem)   |
-| Thurs. nights  | Edward Yu       | @edwardy   | edward.yu@ga.co         | [edwardyu714](https://github.com/edwardyu714) |
+| Mon. nights    | Mike Ludwig     | see above  | see above               | see above                                     |
+| Tue  nights    | Mike Ludwig     | TBD        | TBD                     | TBD                                           |
+| Wed. nights    | TBD             | TBD        | TBD                     | TBD                                           |
+| Thurs. nights  | Mike Ludwig     | see above  | see above               | see above                                     | 
 
 
 
@@ -57,23 +57,23 @@ instructional team and classmates, please follow the
 |----------------------|:------------------------------:|:-----------------:|:---------------------------------------:|
 | Brett	Swan	         | swan107@mail.chapman.edu       | @brettswan523     | 
 | Chris	Shoe	         | chris.m.shoe@gmail.com         | @cshoe            | 
-| Christine	Yi	       | ecy0218@gmail.com              | 
-| Colin	Clemence	     | cjclemence@yahoo.com           | 
-| Isaac	Moore	         | isaacymoore@gmail.com          | 
-| Leslie Pham          | phamleslie159@gmail.com        | 
-| Melanie Okamuro      | melanie.okamuro@gmail.com      | 
-| Michael	Frantz       | michaelgfrantz@gmail.com       | 
-| Michael	Gat          | mg@michaelgat.com              | 
-| Nicole	Fergie       | nicolefergie22@gmail.com       | 	
-| Omar	Aguilar        | omar.aguilar@richmond.edu      | 	
-| Omeed	Selbe          | oselbe@gmail.com               | 	
-| Paul	Trichon        | paul.trichon@gmail.com         | 	
-| Robbie	Smoot        | robbiesmoot@gmail.com          | 	
-| Roshanak	Omrani     | romrani@g.ucla.edu             | 	
-| Ryan	Gin            | chinkook123@gmail.com          | 	
-| Shahram Farhadi      | farhadin@usc.edu               | 	
-| Shirley	Ho           | hshirl@hotmail.com             | 	
-| Tiffany	Wilson       | tiffany@twrealestategroup.com  |
+| Christine	Yi	       | ecy0218@gmail.com              | @christineyi      | 
+| Colin	Clemence	     | cjclemence@yahoo.com           | @colinjclemence   | 
+| Isaac	Moore	         | isaacymoore@gmail.com          | @isaacmoore       | 
+| Leslie Pham          | phamleslie159@gmail.com        | @phamleslie159    | 
+| Melanie Okamuro      | melanie.okamuro@gmail.com      | @mel_oka          | 
+| Michael	Frantz       | michaelgfrantz@gmail.com       | @michaelgfrantz   | 
+| Michael	Gat          | mg@michaelgat.com              | @michaelgat       |  
+| Nicole Fergie        | nicolefergie22@gmail.com       | @nfergie          | 	
+| Omar Aguilar         | omar.aguilar@richmond.edu      | @omar.aguilar     |  	
+| Omeed	Selbe          | oselbe@gmail.com               | @oselbe           | 		
+| Paul Trichon         | paul.trichon@gmail.com         | @i_am_paul        | 		
+| Robbie Smoot         | robbiesmoot@gmail.com          | @rawbsmoot        | 			
+| Roshanak Omrani      | romrani@g.ucla.edu             | @romrani          | 				
+| Ryan	Gin            | chinkook123@gmail.com          | @chinkook123      | 				
+| Shahram Farhadi      | farhadin@usc.edu               | @sheram           | 					
+| Shirley	Ho           | hshirl@hotmail.com             | @shirl            | 						
+| Tiffany	Wilson       | tiffany@twrealestategroup.com  | @codingsurfer     | 				
 
 
 ## Important Dates
@@ -120,9 +120,10 @@ Keep in mind, this is tentative. **We may (and shall) change topics and dates as
   projects.
 - The **exercises** directory contains information for exercises given in class, which
   may have follow-up/after-hours work associated with each exercise. 
-#### What can I do?
 
-As a student, you have **pull** permissions on this repository. We recommend
+#### What can I (student) do in this repository?
+
+As a student, you only have **pull** permissions on this repository. We recommend
 creating a "fork" on GitHub that is your own, so that you can also "push" to it.
 You should copy ("clone") your fork to your computer, and add a link to the
 original version owned by the instructors.
@@ -130,12 +131,6 @@ original version owned by the instructors.
 After that, you can get all of the updates in the online repository from the
 instructors, work on it on your computer, and back up and share your work on
 your own online copy! We will go over this process (or "workflow") in class.
-
-The biggest rule is this: do not work in any folders (or make changes to any
-folders) named `instructor`. If at any time you see `instructor` in the path,
-don't make changes! Copy from those files in to your current working folder
-(either outside of your repo, or in the current week/day folder). That way
-the instructors won't erase or overwrite any of your work!
 
 #### What am I viewing here?
 

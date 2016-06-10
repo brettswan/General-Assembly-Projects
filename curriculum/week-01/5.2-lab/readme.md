@@ -10,7 +10,7 @@ creator:
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Plotting Lab
 
 ## Introduction
-At the beginning of the week, you were given an overview of Project 1.
+Recently, you were given an overview of Project 1.
 
 #### Requirements
 
@@ -28,7 +28,7 @@ At the beginning of the week, you were given an overview of Project 1.
 
 
 **Bonus:**
-- Use seaborn and/or plotly to do EDA on Project 1
+- Use seaborn and/or Tableau to do EDA on Project 1
 
 #### Deliverable
 
