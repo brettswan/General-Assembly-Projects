@@ -31,7 +31,7 @@ SAMPLE OUTPUT
 A. Create the dictionary
 B. Print the dictionary: values, keys, values and keys
 C. BONUS: With the dictionary that you created (dice_dict), 
-create a new dictionary of combination and probabilities. 
+create a new dictionary of dice combination and probabilities associated with each of these combinations. 
 The new dictionary should have have key: value == {1: 0.0556}
 '''
 
