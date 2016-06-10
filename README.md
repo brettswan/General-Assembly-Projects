@@ -57,23 +57,23 @@ instructional team and classmates, please follow the
 |----------------------|:------------------------------:|:-----------------:|:---------------------------------------:|
 | Brett	Swan	         | swan107@mail.chapman.edu       | @brettswan523     | 
 | Chris	Shoe	         | chris.m.shoe@gmail.com         | @cshoe            | 
-| Christine	Yi	       | ecy0218@gmail.com              | 
-| Colin	Clemence	     | cjclemence@yahoo.com           | 
-| Isaac	Moore	         | isaacymoore@gmail.com          | 
-| Leslie Pham          | phamleslie159@gmail.com        | 
-| Melanie Okamuro      | melanie.okamuro@gmail.com      | 
-| Michael	Frantz       | michaelgfrantz@gmail.com       | 
-| Michael	Gat          | mg@michaelgat.com              | 
-| Nicole	Fergie       | nicolefergie22@gmail.com       | 	
-| Omar	Aguilar        | omar.aguilar@richmond.edu      | 	
-| Omeed	Selbe          | oselbe@gmail.com               | 	
-| Paul	Trichon        | paul.trichon@gmail.com         | 	
-| Robbie	Smoot        | robbiesmoot@gmail.com          | 	
-| Roshanak	Omrani     | romrani@g.ucla.edu             | 	
-| Ryan	Gin            | chinkook123@gmail.com          | 	
-| Shahram Farhadi      | farhadin@usc.edu               | 	
-| Shirley	Ho           | hshirl@hotmail.com             | 	
-| Tiffany	Wilson       | tiffany@twrealestategroup.com  |
+| Christine	Yi	       | ecy0218@gmail.com              | @christineyi      | 
+| Colin	Clemence	     | cjclemence@yahoo.com           | @colinjclemence   | 
+| Isaac	Moore	         | isaacymoore@gmail.com          | @isaacmoore       | 
+| Leslie Pham          | phamleslie159@gmail.com        | @phamleslie159    | 
+| Melanie Okamuro      | melanie.okamuro@gmail.com      | @mel_oka          | 
+| Michael	Frantz       | michaelgfrantz@gmail.com       | @michaelgfrantz   | 
+| Michael	Gat          | mg@michaelgat.com              | @michaelgat       |  
+| Nicole Fergie        | nicolefergie22@gmail.com       | @nfergie          | 	
+| Omar Aguilar         | omar.aguilar@richmond.edu      | @omar.aguilar     |  	
+| Omeed	Selbe          | oselbe@gmail.com               | @oselbe           | 		
+| Paul Trichon         | paul.trichon@gmail.com         | @i_am_paul        | 		
+| Robbie Smoot         | robbiesmoot@gmail.com          | @rawbsmoot        | 			
+| Roshanak Omrani      | romrani@g.ucla.edu             | @romrani          | 				
+| Ryan	Gin            | chinkook123@gmail.com          | @chinkook123      | 				
+| Shahram Farhadi      | farhadin@usc.edu               | @sheram           | 					
+| Shirley	Ho           | hshirl@hotmail.com             | @shirl            | 						
+| Tiffany	Wilson       | tiffany@twrealestategroup.com  | @codingsurfer     | 				
 
 
 ## Important Dates
