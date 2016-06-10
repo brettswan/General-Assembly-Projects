@@ -36,18 +36,18 @@ instructional team and classmates, please follow the
 
 [sarahcarr]: https://github.com/SarahCarr
 [pauline]:   https://github.com/powchow
-[j-a-marin]:https://github.com/j-a-marin
+[j-a-marin]: https://github.com/j-a-marin
 [mikeludwig]: https://github.com/mikeludwig
 [mer8]:      https://github.com/mer8  
 
-### TAs
+### Office Hours
 
 | Time           | Name            | Slack      | Email                   | GitHub                                        |
 |----------------|-----------------|:----------:|:-----------------------:|:---------------------------------------------:|
-| Mon. nights    | Yael Amir       | @yaelamir  | yael.amir@ga.co         | [yaelamir](https://github.com/yaelamir)       |
-| Tue  nights    | Gev Gharadaghi  | @gogev     | gevork.gharadaghi@ga.co | [gev326](https://github.com/gev326)           |
-| Wed. nights    | Tim Kim         | @timkim    | tim.kim@ga.co           | [Teembokeem](https://github.com/Teembokeem)   |
-| Thurs. nights  | Edward Yu       | @edwardy   | edward.yu@ga.co         | [edwardyu714](https://github.com/edwardyu714) |
+| Mon. nights    | Mike Ludwig     | see above  | see above               | see above                                     |
+| Tue  nights    | TBD             | TBD        | TBD                     | TBD                                           |
+| Wed. nights    | TBD             | TBD        | TBD                     | TBD                                           |
+| Thurs. nights  | Mike Ludwig     | see above  | see above               | see above                                     | 
 
 
 
