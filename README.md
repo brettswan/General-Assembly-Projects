@@ -1,5 +1,5 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)
-# DSI SM 10 Class Repository
+# DSI SM 1 Class Repository
 
 Welcome to the DSI SM 1 class repository. Here is where
 we will store the information you need as students. This includes important
@@ -104,7 +104,7 @@ Keep in mind, this is tentative. **We may (and shall) change topics and dates as
 
 #### What's in here?
 
-- The **work** directory is where you can put your class work!
+- The **curriculum** directory is where you can put your class work!
 - Weekly & Daily directories (**curriculum/week-00**) contain in-class code samples and
   files required for labs and lessons.
 - The **resources** directory is where you can find all the extra resources you
@@ -113,16 +113,13 @@ Keep in mind, this is tentative. **We may (and shall) change topics and dates as
     your learning or read ahead. You can add your own by submitting a pull-request!
   - The **cheatsheets** directory will be your go-to for cheat sheets and
     procedural instructions (like installs, deployment steps, etc.).
-  - The **templates** directory allows you to quickly create a new project
-    using the files and directory structures we discuss in class. Throughout the
-    class, the libraries and best practices we learn will be added to these
-    templates.
   - The **tangents** folder is where you can find suggestions for extra
     practice -- ideas, prompts, specs, and more. If you need to polish your
     skills in a given area, you'll want to start here!
 - The **projects** directory contains information and resources for class
   projects.
-
+- The **exercises** directory contains information for exercises given in class, which
+  may have follow-up/after-hours work associated with each exercise. 
 #### What can I do?
 
 As a student, you have **pull** permissions on this repository. We recommend
