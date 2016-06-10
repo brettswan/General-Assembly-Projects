@@ -120,9 +120,10 @@ Keep in mind, this is tentative. **We may (and shall) change topics and dates as
   projects.
 - The **exercises** directory contains information for exercises given in class, which
   may have follow-up/after-hours work associated with each exercise. 
-#### What can I do?
 
-As a student, you have **pull** permissions on this repository. We recommend
+#### What can I (student) do in this repository?
+
+As a student, you only have **pull** permissions on this repository. We recommend
 creating a "fork" on GitHub that is your own, so that you can also "push" to it.
 You should copy ("clone") your fork to your computer, and add a link to the
 original version owned by the instructors.
@@ -130,12 +131,6 @@ original version owned by the instructors.
 After that, you can get all of the updates in the online repository from the
 instructors, work on it on your computer, and back up and share your work on
 your own online copy! We will go over this process (or "workflow") in class.
-
-The biggest rule is this: do not work in any folders (or make changes to any
-folders) named `instructor`. If at any time you see `instructor` in the path,
-don't make changes! Copy from those files in to your current working folder
-(either outside of your repo, or in the current week/day folder). That way
-the instructors won't erase or overwrite any of your work!
 
 #### What am I viewing here?
 
