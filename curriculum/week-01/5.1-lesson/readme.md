@@ -56,16 +56,17 @@ integrated with the PyData stack, including support for numpy and
 pandas data structures and statistical routines from scipy and statsmodels.
 [seaborn](https://stanford.edu/~mwaskom/software/seaborn/introduction.html)
 
-Plotly has a graphical user interface for importing and analyzing data into a
-grid and using stats tools. Graphs can be embedded or downloaded. Mainly used to
-make creating graphs faster and more efficient.
-[plotly](https://en.wikipedia.org/wiki/Plotly)
-
 Tableau queries relational databases, cubes, cloud databases, and spreadsheets
 and then generates a number of graph that can be combined into dashboards
 and shared over a computer network or the internet.
 [tableau](https://en.wikipedia.org/wiki/Tableau_Software)
 
+**Bonus: Additional plotting package. All references below are optional for learning
+outside the classroom. It will not be reviewed during class.
+** Plotly has a graphical user interface for importing and analyzing data into a
+grid and using stats tools. Graphs can be embedded or downloaded. Mainly used to
+make creating graphs faster and more efficient.
+[plotly](https://en.wikipedia.org/wiki/Plotly)
 
 <a name="matplotlib"></a>
 ## Demo / Guided Practice: matplotlib (15 mins)
@@ -88,7 +89,7 @@ plt.show()                         #show plot
 ```
 
 **Check:** Can you think of a data scenario when matplotlib would be a good tool to use
-instead of seaborn or plotly?
+instead of seaborn?
 
 
 <a name="seaborn"></a>
