@@ -28,7 +28,7 @@ At the beginning of the week, you were given an overview of Project 1.
 
 
 **Bonus:**
-- Use seaborn and/or plotly to do EDA on Project 1
+- Use seaborn and/or Tableau to do EDA on Project 1
 
 #### Deliverable
 
