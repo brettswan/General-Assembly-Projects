@@ -45,7 +45,7 @@ instructional team and classmates, please follow the
 | Time           | Name            | Slack      | Email                   | GitHub                                        |
 |----------------|-----------------|:----------:|:-----------------------:|:---------------------------------------------:|
 | Mon. nights    | Mike Ludwig     | see above  | see above               | see above                                     |
-| Tue  nights    | Mike Ludwig     | TBD        | TBD                     | TBD                                           |
+| Tue  nights    | Mike Ludwig     | see above  | see above               | see above                                     |
 | Wed. nights    | TBD             | TBD        | TBD                     | TBD                                           |
 | Thurs. nights  | Mike Ludwig     | see above  | see above               | see above                                     | 
 
