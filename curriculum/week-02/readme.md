@@ -6,11 +6,12 @@ This is a summary of the materials provided for Week 2 of the Data Science Immer
 
 Session Time | Day 1 | Day 2 | Day 3 | Day 4 | Day 5
  --- | --- | --- | --- | ---  | ---
-9-10 | [Morning Exercise][2-1A]         | [Morning Exercise][2-2A]        | [(Outcomes)][2-3A]                        | [Morning Exercise][2-4A]              | [(Reflection)][2-5A]
+9-10 | [Morning Exercise][2-1A]         | [(Project Review)][2-2A]        | [Morning Exercise][2-3A]                        | [Morning Exercise][2-4A]              | [(Reflection)][2-5A]
 10-11:30 | [Intro to Pandas 1][2-1B]    | [Intro to Pandas 2][2-2B]       | [Intro to Pandas 3][2-3B]                 | [Stats Review & Intro to Scipy][2-4B] | [Plotting With Pandas][2-5B]
 11:30-1 | [Study Design & Pandas][2-1C] | [Pandas Computation Lab][2-2C]  | [Pandas & Pivot Tables][2-3C]             | [Scipy & Stat Lab][2-4C]              | [Pandas, Plotting, & Project 2][2-5C]
 2-3:30 | [Stats 101][2-1D]              | [Intro to Data Cleaning][2-2D]  | [Categorical & Dummy Variables][2-3D]     | [Joins & Pandas][2-4D]                | [+Instructor Choice][2-5D]
 3:30-5 | [Pandas & Numpy][2-1E]         | [Data Cleaning Lab][2-2E]       | [Lambda Functions & Missing Data][2-3E]   | [Practicing Joins][2-4E]              | [Project 2: Workshop][2-5E]
+Add+ |                    | [(Outcomes: Job Search Fundamentions)] |
 
 
 [2-1A]: ./instructor-contributions/
