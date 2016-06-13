@@ -28,9 +28,10 @@ Your work must:
 - Use a Tableau and/or python plotting modules to generate visualizations
 - Determine correlations / causations in the data
 - Evaluate your hypothesis using statistical analysis
-- Present results in a polished blog post format of at least 500 words (& 1-2 graphics!)
+- Create a polish write-up of the problem and solution (at least 500 words with your analysis and visualizations)
 
 - ***Bonus:***
+ - Convert the polished write-up into a polished blog post format of at least 500 words (& 1-2 graphics!)
  - Write a short white paper on the philosophy of 'Clean Data' of no less than 500 words. Link to it in your Jupyter notebook.
 
 ---
@@ -38,8 +39,8 @@ Your work must:
 ### Necessary Deliverables
 
 - Materials must be in a clearly labeled Jupyter notebook.
-- Materials must be submitted via a Github PR to the instructor's repo.
-- Materials must be submitted by the end of week 2.
+- Materials must be submitted via a Github public repository and providing links to instructors before designated due date/time.
+- Materials must be submitted by the beginning of week 3.
   - _Note_: Blog post must be published on a blogging platform, and submitted via a URL pasted into your Jupyter notebook.
   - _Note_: Bonus white paper may be submitted as a text file. Bonus nerd points for using LaTeX ;)
 
