@@ -11,7 +11,7 @@ Session Time | Day 1 | Day 2 | Day 3 | Day 4 | Day 5
 11:30-1 | [Study Design & Pandas][2-1C] | [Pandas Computation Lab][2-2C]  | [Pandas & Pivot Tables][2-3C]             | [Scipy & Stat Lab][2-4C]              | [Pandas, Plotting, & Project 2][2-5C]
 2-3:30 | [Stats 101][2-1D]              | [Intro to Data Cleaning][2-2D]  | [Categorical & Dummy Variables][2-3D]     | [Joins & Pandas][2-4D]                | [+Instructor Choice][2-5D]
 3:30-5 | [Pandas & Numpy][2-1E]         | [Data Cleaning Lab][2-2E]       | [Lambda Functions & Missing Data][2-3E]   | [Practicing Joins][2-4E]              | [Project 2: Workshop][2-5E]
-Add+ |                    | [(Outcomes: Job Search Fundamentions)] |
+Add+ |                    | [(Outcomes: Job Search Fundamentions) 4-5:30] |
 
 
 [2-1A]: ./instructor-contributions/
