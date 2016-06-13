@@ -28,7 +28,7 @@ Your work must:
 - Use a Tableau and/or python plotting modules to generate visualizations
 - Determine correlations / causations in the data
 - Evaluate your hypothesis using statistical analysis
-- Create a polish write-up of the problem and solution (at least 500 words with your analysis and visualizations)
+- Create a write-up of the problem and solution (at least 500 words with your analysis and visualizations)
 
 - ***Bonus:***
  - Convert the polished write-up into a polished blog post format of at least 500 words (& 1-2 graphics!)
