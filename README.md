@@ -56,7 +56,7 @@ instructional team and classmates, please follow the
 | Name                 | Email                          | [Slack](https://ga-students.slack.com) | GitHub             |
 |----------------------|:------------------------------:|:-----------------:|:---------------------------------------:|
 | Brett	Swan	         | swan107@mail.chapman.edu       | @brettswan523     | 
-| Chris	Shoe	         | chris.m.shoe@gmail.com         | @cshoe            | 
+| Chris	Shoe	         | chris.m.shoe@gmail.com         | @cshoe            | @Mithers
 | Christine	Yi	       | ecy0218@gmail.com              | @christineyi      | @christineyi
 | Colin	Clemence	     | cjclemence@yahoo.com           | @colinjclemence   | @ColinJClemence
 | Isaac	Moore	         | isaacymoore@gmail.com          | @isaacmoore       | 
@@ -72,7 +72,7 @@ instructional team and classmates, please follow the
 | Roshanak Omrani      | romrani@g.ucla.edu             | @romrani          | 				
 | Ryan	Gin            | chinkook123@gmail.com          | @chinkook123      | 				
 | Shahram Farhadi      | farhadin@usc.edu               | @sheram           | @ShahramFarhadi					
-| Shirley	Ho           | hshirl@hotmail.com             | @shirl            | 						
+| Shirley	Ho           | hshirl@hotmail.com             | @shirl            | @hshirl						
 | Tiffany	Wilson       | tiffany@twrealestategroup.com  | @codingsurfer     | 				
 
 
