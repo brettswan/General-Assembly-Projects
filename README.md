@@ -55,26 +55,26 @@ instructional team and classmates, please follow the
 
 | Name                 | Email                          | [Slack](https://ga-students.slack.com) | GitHub             |
 |----------------------|:------------------------------:|:-----------------:|:---------------------------------------:|
-| Andre Bourque	       | andrefbourque@gmail.com        | @andrebourque     | andrebourque
-| Brett	Swan	         | swan107@mail.chapman.edu       | @brettswan523     | brettswan
-| Chris	Shoe	         | chris.m.shoe@gmail.com         | @cshoe            | Mithers
-| Christine	Yi	       | ecy0218@gmail.com              | @christineyi      | christineyi
-| Colin	Clemence	     | cjclemence@yahoo.com           | @colinjclemence   | ColinJClemence
-| Isaac	Moore	         | isaacymoore@gmail.com          | @isaacmoore       | isaacmoore
-| Leslie Pham          | phamleslie159@gmail.com        | @phamleslie159    | phamleslie159
-| Melanie Okamuro      | melanie.okamuro@gmail.com      | @mel_oka          | mel-oka
-| Michael	Frantz       | michaelgfrantz@gmail.com       | @michaelgfrantz   | mgfrantz
-| Michael	Gat          | mg@michaelgat.com              | @michaelgat       | michaelgat 
-| Nicole Fergie        | nicolefergie22@gmail.com       | @nfergie          | nfergie	
-| Omar Aguilar         | omar.aguilar@richmond.edu      | @omar.aguilar     | OmarAguilar  	
-| Omeed	Selbe          | oselbe@gmail.com               | @oselbe           | oselbe		
-| Paul Trichon         | paul.trichon@gmail.com         | @i_am_paul        | ophiuchus44		
-| Robbie Smoot         | robbiesmoot@gmail.com          | @rawbsmoot        | rawbsmoot			
-| Roshanak Omrani      | romrani@g.ucla.edu             | @romrani          | romrani				
-| Ryan	Gin            | chinkook123@gmail.com          | @chinkook123      | chinkook123				
-| Shahram Farhadi      | farhadin@usc.edu               | @sheram           | ShahramFarhadi					
-| Shirley	Ho           | hshirl@hotmail.com             | @shirl            | hshirl						
-| Tiffany	Wilson       | tiffany@twrealestategroup.com  | @codingsurfer     | CodingSurfer				
+| Andre Bourque	       | andrefbourque@gmail.com        | @andrebourque     | [andrebourque][andrebourque]
+| Brett	Swan	         | swan107@mail.chapman.edu       | @brettswan523     | [brettswan][brettswan]
+| Chris	Shoe	         | chris.m.shoe@gmail.com         | @cshoe            | [Mithers][Mithers]
+| Christine	Yi	       | ecy0218@gmail.com              | @christineyi      | [christineyi][christineyi]
+| Colin	Clemence	     | cjclemence@yahoo.com           | @colinjclemence   | [ColinJClemence][ColinJClemence]
+| Isaac	Moore	         | isaacymoore@gmail.com          | @isaacmoore       | [isaacmoore][isaacmoore]
+| Leslie Pham          | phamleslie159@gmail.com        | @phamleslie159    | [phamleslie159][phamleslie159]
+| Melanie Okamuro      | melanie.okamuro@gmail.com      | @mel_oka          | [mel-oka][mel-oka]
+| Michael	Frantz       | michaelgfrantz@gmail.com       | @michaelgfrantz   | [mgfrantz][mgfrantz]
+| Michael	Gat          | mg@michaelgat.com              | @michaelgat       | [michaelgat][michaelgat] 
+| Nicole Fergie        | nicolefergie22@gmail.com       | @nfergie          | [nfergie][nfergie]
+| Omar Aguilar         | omar.aguilar@richmond.edu      | @omar.aguilar     | [OmarAguilar][OmarAguilar]
+| Omeed	Selbe          | oselbe@gmail.com               | @oselbe           | [oselbe][oselbe]
+| Paul Trichon         | paul.trichon@gmail.com         | @i_am_paul        | [ophiuchus44][ophiuchus44]
+| Robbie Smoot         | robbiesmoot@gmail.com          | @rawbsmoot        | [rawbsmoot][rawbsmoot]	
+| Roshanak Omrani      | romrani@g.ucla.edu             | @romrani          | [romrani][romrani]					
+| Ryan	Gin            | chinkook123@gmail.com          | @chinkook123      | [chinkook123][chinkook123]		
+| Shahram Farhadi      | farhadin@usc.edu               | @sheram           | [ShahramFarhadi][ShahramFarhadi]					
+| Shirley	Ho           | hshirl@hotmail.com             | @shirl            | [hshirl][hshirl]						
+| Tiffany	Wilson       | tiffany@twrealestategroup.com  | @codingsurfer     | [CodingSurfer][CodingSurfer]				
 
 
 ## Important Dates
