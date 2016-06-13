@@ -57,21 +57,21 @@ instructional team and classmates, please follow the
 |----------------------|:------------------------------:|:-----------------:|:---------------------------------------:|
 | Brett	Swan	         | swan107@mail.chapman.edu       | @brettswan523     | 
 | Chris	Shoe	         | chris.m.shoe@gmail.com         | @cshoe            | 
-| Christine	Yi	       | ecy0218@gmail.com              | @christineyi      | 
-| Colin	Clemence	     | cjclemence@yahoo.com           | @colinjclemence   | 
+| Christine	Yi	       | ecy0218@gmail.com              | @christineyi      | @christineyi
+| Colin	Clemence	     | cjclemence@yahoo.com           | @colinjclemence   | @ColinJClemence
 | Isaac	Moore	         | isaacymoore@gmail.com          | @isaacmoore       | 
-| Leslie Pham          | phamleslie159@gmail.com        | @phamleslie159    | 
-| Melanie Okamuro      | melanie.okamuro@gmail.com      | @mel_oka          | 
+| Leslie Pham          | phamleslie159@gmail.com        | @phamleslie159    | @phamleslie159
+| Melanie Okamuro      | melanie.okamuro@gmail.com      | @mel_oka          | @mel-oka
 | Michael	Frantz       | michaelgfrantz@gmail.com       | @michaelgfrantz   | 
 | Michael	Gat          | mg@michaelgat.com              | @michaelgat       |  
-| Nicole Fergie        | nicolefergie22@gmail.com       | @nfergie          | 	
-| Omar Aguilar         | omar.aguilar@richmond.edu      | @omar.aguilar     |  	
+| Nicole Fergie        | nicolefergie22@gmail.com       | @nfergie          | @nfergie	
+| Omar Aguilar         | omar.aguilar@richmond.edu      | @omar.aguilar     | @OmarAguilar  	
 | Omeed	Selbe          | oselbe@gmail.com               | @oselbe           | 		
 | Paul Trichon         | paul.trichon@gmail.com         | @i_am_paul        | 		
 | Robbie Smoot         | robbiesmoot@gmail.com          | @rawbsmoot        | 			
 | Roshanak Omrani      | romrani@g.ucla.edu             | @romrani          | 				
 | Ryan	Gin            | chinkook123@gmail.com          | @chinkook123      | 				
-| Shahram Farhadi      | farhadin@usc.edu               | @sheram           | 					
+| Shahram Farhadi      | farhadin@usc.edu               | @sheram           | @ShahramFarhadi					
 | Shirley	Ho           | hshirl@hotmail.com             | @shirl            | 						
 | Tiffany	Wilson       | tiffany@twrealestategroup.com  | @codingsurfer     | 				
 
