@@ -55,26 +55,26 @@ instructional team and classmates, please follow the
 
 | Name                 | Email                          | [Slack](https://ga-students.slack.com) | GitHub             |
 |----------------------|:------------------------------:|:-----------------:|:---------------------------------------:|
-| Andre Bourque	       | andrefbourque@gmail.com        | @andrebourque     | andrebourque
-| Brett	Swan	         | swan107@mail.chapman.edu       | @brettswan523     | brettswan
-| Chris	Shoe	         | chris.m.shoe@gmail.com         | @cshoe            | Mithers
-| Christine	Yi	       | ecy0218@gmail.com              | @christineyi      | christineyi
-| Colin	Clemence	     | cjclemence@yahoo.com           | @colinjclemence   | ColinJClemence
-| Isaac	Moore	         | isaacymoore@gmail.com          | @isaacmoore       | isaacmoore
-| Leslie Pham          | phamleslie159@gmail.com        | @phamleslie159    | phamleslie159
-| Melanie Okamuro      | melanie.okamuro@gmail.com      | @mel_oka          | mel-oka
-| Michael	Frantz       | michaelgfrantz@gmail.com       | @michaelgfrantz   | mgfrantz
-| Michael	Gat          | mg@michaelgat.com              | @michaelgat       | michaelgat 
-| Nicole Fergie        | nicolefergie22@gmail.com       | @nfergie          | nfergie	
-| Omar Aguilar         | omar.aguilar@richmond.edu      | @omar.aguilar     | OmarAguilar  	
-| Omeed	Selbe          | oselbe@gmail.com               | @oselbe           | oselbe		
-| Paul Trichon         | paul.trichon@gmail.com         | @i_am_paul        | ophiuchus44		
-| Robbie Smoot         | robbiesmoot@gmail.com          | @rawbsmoot        | rawbsmoot			
-| Roshanak Omrani      | romrani@g.ucla.edu             | @romrani          | romrani				
-| Ryan	Gin            | chinkook123@gmail.com          | @chinkook123      | chinkook123				
-| Shahram Farhadi      | farhadin@usc.edu               | @sheram           | ShahramFarhadi					
-| Shirley	Ho           | hshirl@hotmail.com             | @shirl            | hshirl						
-| Tiffany	Wilson       | tiffany@twrealestategroup.com  | @codingsurfer     | CodingSurfer				
+| Andre Bourque	       | andrefbourque@gmail.com        | @andrebourque     | [andrebourque](https://github.com/andrebourque)
+| Brett	Swan	         | swan107@mail.chapman.edu       | @brettswan523     | [brettswan](https://github.com/brettswan)
+| Chris	Shoe	         | chris.m.shoe@gmail.com         | @cshoe            | [Mithers](https://github.com/Mithers)
+| Christine	Yi	       | ecy0218@gmail.com              | @ecy0218          | [christineyi](https://github.com/christineyi)
+| Colin	Clemence	     | cjclemence@yahoo.com           | @colinjclemence   | [ColinJClemence](https://github.com/ColinJClemence)
+| Isaac	Moore	         | isaacymoore@gmail.com          | @isaacmoore       | [isaacmoore](https://github.com/isaacmoore)
+| Leslie Pham          | phamleslie159@gmail.com        | @phamleslie159    | [phamleslie159](https://github.com/phamleslie159)
+| Melanie Okamuro      | melanie.okamuro@gmail.com      | @mel_oka          | [mel-oka](https://github.com/mel-oka)
+| Michael	Frantz       | michaelgfrantz@gmail.com       | @michaelgfrantz   | [mgfrantz](https://github.com/mgfrantz)
+| Michael	Gat          | mg@michaelgat.com              | @michaelgat       | [michaelgat](https://github.com/michaelgat)
+| Nicole Fergie        | nicolefergie22@gmail.com       | @nfergie          | [nfergie](https://github.com/nfergie)
+| Omar Aguilar         | omar.aguilar@richmond.edu      | @omar.aguilar     | [OmarAguilar](https://github.com/OmarAguilar)
+| Omeed	Selbe          | oselbe@gmail.com               | @oselbe           | [oselbe](https://github.com/oselbe)
+| Paul Trichon         | paul.trichon@gmail.com         | @i_am_paul        | [ophiuchus44](https://github.com/ophiuchus44)
+| Robbie Smoot         | robbiesmoot@gmail.com          | @rawbsmoot        | [rawbsmoot](https://github.com/rawbsmoot)
+| Roshanak Omrani      | romrani@g.ucla.edu             | @romrani          | [romrani](https://github.com/romrani)			
+| Ryan	Gin            | chinkook123@gmail.com          | @chinkook123      | [chinkook123](https://github.com/chinkook123)
+| Shahram Farhadi      | farhadin@usc.edu               | @sheram           | [ShahramFarhadi](https://github.com/ShahramFarhadi)
+| Shirley	Ho           | hshirl@hotmail.com             | @shirl            | [hshirl](https://github.com/hshirl)			
+| Tiffany	Wilson       | tiffany@twrealestategroup.com  | @codingsurfer     | [CodingSurfer](https://github.com/CodingSurfer)
 
 
 ## Important Dates
@@ -99,6 +99,20 @@ Keep in mind, this is tentative. **We may (and shall) change topics and dates as
 | Week(s)     | Dates         | Module                         |
 |:-----------:|:-------------:|:-------------------------------|
 | **Week 1**  | 6/6 - 6/10     | Programming Fundamentals         |
+| **Week 2**  | 6/13 - 6/17    | Exploratory Data Analysis & Pandas   |
+| **Week 3**  | 6/20 - 6/24    | Linear Regression & StatsModels   |
+| **Week 4**  | 6/27 - 7/1    | Intro to Logistic Regression   |
+| **Week 5**  | 7/4 - 7/8   | Classification & Databases   |
+| **Week 6**  | 7/11 - 7/15   | Trees & Ensemble Methods   |
+| **Week 7**  | 7/18 - 7/22   | Unsupervised Learning   |
+| **Week 8**  | 7/25 - 7/29   | Bayesian Inference   |
+| **Week 9**  | 8/1 - 8/5   | Time Series Data   |
+| **Week 10**  | 8/8 - 8/12   | Intro to Big Data   |
+| **Week 11**  | 8/15 - 8/19   | Advanced Topics & Interview Tips   |
+| **Week 12**  | 8/22 - 8/26   | Capstone & Careers   |
+
+
+
 
 
 ## Repo Structure and Use
