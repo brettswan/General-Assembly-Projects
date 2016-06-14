@@ -58,7 +58,7 @@ instructional team and classmates, please follow the
 | Andre Bourque	       | andrefbourque@gmail.com        | @andrebourque     | [andrebourque](https://github.com/andrebourque)
 | Brett	Swan	         | swan107@mail.chapman.edu       | @brettswan523     | [brettswan](https://github.com/brettswan)
 | Chris	Shoe	         | chris.m.shoe@gmail.com         | @cshoe            | [Mithers](https://github.com/Mithers)
-| Christine	Yi	       | ecy0218@gmail.com              | @christineyi      | [christineyi](https://github.com/christineyi)
+| Christine	Yi	       | ecy0218@gmail.com              | @ecy0218          | [christineyi](https://github.com/christineyi)
 | Colin	Clemence	     | cjclemence@yahoo.com           | @colinjclemence   | [ColinJClemence](https://github.com/ColinJClemence)
 | Isaac	Moore	         | isaacymoore@gmail.com          | @isaacmoore       | [isaacmoore](https://github.com/isaacmoore)
 | Leslie Pham          | phamleslie159@gmail.com        | @phamleslie159    | [phamleslie159](https://github.com/phamleslie159)
