@@ -101,6 +101,10 @@ Keep in mind, this is tentative. **We may (and shall) change topics and dates as
 | **Week 1**  | 6/6 - 6/10     | Programming Fundamentals         |
 | **Week 2**  | 6/13 - 6/17    | Exploratory Data Analysis & Pandas   |
 | **Week 3**  | 6/20 - 6/24    | Linear Regression & StatsModels   |
+| **Week 4**  | 6/27 - 7/1    | Intro to Logistic Regression   |
+| **Week 5**  | 7/4 - 7/8   | Classification & Databases   |
+| **Week 6**  | 7/11 - 7/15   | Trees & Ensemble Methods   |
+
 
 
 ## Repo Structure and Use
