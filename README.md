@@ -104,6 +104,11 @@ Keep in mind, this is tentative. **We may (and shall) change topics and dates as
 | **Week 4**  | 6/27 - 7/1    | Intro to Logistic Regression   |
 | **Week 5**  | 7/4 - 7/8   | Classification & Databases   |
 | **Week 6**  | 7/11 - 7/15   | Trees & Ensemble Methods   |
+| **Week 7**  | 7/18 - 7/22   | Unsupervised Learning   |
+| **Week 8**  | 7/25 - 7/29   | Bayesian Inference   |
+| **Week 9**  | 8/1 - 8/5   | Time Series Data   |
+
+
 
 
 
