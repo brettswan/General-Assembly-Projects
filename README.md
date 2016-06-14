@@ -107,6 +107,9 @@ Keep in mind, this is tentative. **We may (and shall) change topics and dates as
 | **Week 7**  | 7/18 - 7/22   | Unsupervised Learning   |
 | **Week 8**  | 7/25 - 7/29   | Bayesian Inference   |
 | **Week 9**  | 8/1 - 8/5   | Time Series Data   |
+| **Week 10**  | 8/8 - 8/12   | Intro to Big Data   |
+| **Week 11**  | 8/15 - 8/19   | Advanced Topics & Interview Tips   |
+| **Week 12**  | 8/22 - 8/26   | Capstone & Careers   |
 
 
 
