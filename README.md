@@ -101,15 +101,15 @@ Keep in mind, this is tentative. **We may (and shall) change topics and dates as
 | **Week 1**  | 6/6 - 6/10     | [Programming Fundamentals](https://github.com/ga-students/DSI_SM_01/tree/master/curriculum/week-01)         |
 | **Week 2**  | 6/13 - 6/17    | [Exploratory Data Analysis & Pandas](https://github.com/ga-students/DSI_SM_01/tree/master/curriculum/week-02)   |
 | **Week 3**  | 6/20 - 6/24    | [Linear Regression & StatsModels](https://github.com/ga-students/DSI_SM_01/tree/master/curriculum/week-03)   |
-| **Week 4**  | 6/27 - 7/1    | Intro to Logistic Regression   |
-| **Week 5**  | 7/4 - 7/8   | Classification & Databases   |
-| **Week 6**  | 7/11 - 7/15   | Trees & Ensemble Methods   |
-| **Week 7**  | 7/18 - 7/22   | Unsupervised Learning   |
-| **Week 8**  | 7/25 - 7/29   | Bayesian Inference   |
-| **Week 9**  | 8/1 - 8/5   | Time Series Data   |
-| **Week 10**  | 8/8 - 8/12   | Intro to Big Data   |
-| **Week 11**  | 8/15 - 8/19   | Advanced Topics & Interview Tips   |
-| **Week 12**  | 8/22 - 8/26   | Capstone & Careers   |
+| **Week 4**  | 6/27 - 7/1    | [Intro to Logistic Regression](https://github.com/ga-students/DSI_SM_01/tree/master/curriculum/week-04)   |
+| **Week 5**  | 7/4 - 7/8   | [Classification & Databases](https://github.com/ga-students/DSI_SM_01/tree/master/curriculum/week-05)   |
+| **Week 6**  | 7/11 - 7/15   | [Trees & Ensemble Methods](https://github.com/ga-students/DSI_SM_01/tree/master/curriculum/week-06)   |
+| **Week 7**  | 7/18 - 7/22   | [Unsupervised Learning](https://github.com/ga-students/DSI_SM_01/tree/master/curriculum/week-07)   |
+| **Week 8**  | 7/25 - 7/29   | [Bayesian Inference](https://github.com/ga-students/DSI_SM_01/tree/master/curriculum/week-08)   |
+| **Week 9**  | 8/1 - 8/5   | [Time Series Data](https://github.com/ga-students/DSI_SM_01/tree/master/curriculum/week-09)   |
+| **Week 10**  | 8/8 - 8/12   | [Intro to Big Data](https://github.com/ga-students/DSI_SM_01/tree/master/curriculum/week-10)   |
+| **Week 11**  | 8/15 - 8/19   | [Advanced Topics & Interview Tips](https://github.com/ga-students/DSI_SM_01/tree/master/curriculum/week-11)   |
+| **Week 12**  | 8/22 - 8/26   | [Capstone & Careers](https://github.com/ga-students/DSI_SM_01/tree/master/curriculum/week-12)   |
 
 
 
