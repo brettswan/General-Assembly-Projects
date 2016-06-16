@@ -37,7 +37,7 @@ Concatenation is taking two or more separately located things and placing them s
 
 Joins using pandas happen when columns of two DataFrames are joined either on index or on a key column. Here is a representation of left, right, inner, and outer joins using Venn diagrams.
 
-![](https://github.com/generalassembly-studio/dsi-course-materials/blob/W2-L4.3/curriculum/04-lessons/week-02/4.3-lesson/assets/images/Joins.png)
+![](https://github.com/ga-students/DSI_SM_01/blob/master/curriculum/week-02/4.3-lesson/assets/images/Joins.png)
 
 **Check:** In pairs draw a left, right, inner, and outer join. Then, show the other person and explain it to them.
 
