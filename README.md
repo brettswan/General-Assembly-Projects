@@ -46,8 +46,8 @@ instructional team and classmates, please follow the
 |----------------|-----------------|:----------:|:-----------------------:|:---------------------------------------------:|
 | Mon. nights    | Mike Ludwig     | see above  | see above               | see above                                     |
 | Tue  nights    | Mike Ludwig     | see above  | see above               | see above                                     |
-| Wed. nights    | TBD             | TBD        | TBD                     | TBD                                           |
-| Thurs. nights  | Mike Ludwig     | see above  | see above               | see above                                     | 
+| Wed. nights    | Burton Newman   | see above  | see above               | see above                                     |
+| Thurs. nights  | Mike Ludwig, Burton Newman     | see above  | see above               | see above                                     | 
 
 
 
