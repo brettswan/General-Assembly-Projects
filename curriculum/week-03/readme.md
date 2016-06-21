@@ -8,9 +8,9 @@ Session Time | Day 1 | Day 2 | Day 3 | Day 4 | Day 5
  --- | --- | --- | --- | ---  | ---
 9-10 | [(Project Review)][3-1A]                  | [Morning Exercise][3-2A]               | [Morning Exercise]                          | [Morning Exercise][3-4A]    | [(Reflection)][3-5A]
 10-11:30 | [Intro to Modeling][3-1B]             | [Bias Variance Tradeoff][3-2B]         | [Regression Metrics & Loss Functions][3-3B] | [Gradient Descent][3-4B]    | [Stakeholder Analysis][3-5B]
-11:30-1 | [Data Plotting][3-1C]                  | [Evaluating Model Fit][3-2C]           | [Train/Test Split][3-3C]                    | [Feature Scaling][3-4C]     | [Presenting to Stakeholders][3-5C]
-2-3:30 | [Intro to Stats Models & Sklearn][3-1D] | [Regularization & Overfitting][3-2D], [Regularization Lab][3-2E]     | [Data Workflow Lab 1: Cleaning][3-3D]       | [Study Design][3-4D]        | [+Instructor Choice][3-5D]
-3:30-5 | [Linear Regression Lab][3-1E]           | [(Outcomes)][3-3A]             | [Data Workflow Lab 2: Optimizing][3-3E]     | [Case Study][3-4E]          | [Project 3: Presentations][3-5E]
+11:30-1 | [Data Plotting][3-1C]                  | [Evaluating Model Fit][3-2C]           | [Train/Test Split][3-3C]                    | [Feature Scaling][3-4C]     | [+Instructor Choice][3-5D]
+2-3:30 | [Intro to Stats Models & Sklearn][3-1D] | [Regularization & Overfitting][3-2D], [Regularization Lab][3-2E]     | [Data Workflow Lab 1: Cleaning][3-3D]       | [Study Design][3-4D]        | [Presenting to Stakeholders][3-5C]
+3:30-5 | [Linear Regression Lab][3-1E]           | [(Outcomes)][3-3A]             | [Data Workflow Lab 2: Optimizing][3-3E]     | [Case Study][3-4E]          | [+Instructor Choice][3-5D]
 
 
 [3-1A]: ./instructor-contributions/
