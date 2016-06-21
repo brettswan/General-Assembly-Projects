@@ -31,32 +31,15 @@ def count_arara(n):
     return ' '.join(['adak'] * (n / 2) + ['anane'] * (n % 2))
 
 
-
-
-
-
-
-
-
-    
-
-
 ### METHOD 2 -- str.rstrip + .join
 def count_arara(n):
     return str.rstrip(''.join(["adak " * (n / 2), "anane" * (n % 2)]))
 
+## METHOD 3 - - Thanks Sharam and Michael Gat!
+def Arara(n):   
+    return ('adak '*(n/2) if (n%2==0) else 'adak '*(n/2)+'anane ')[:-1]
 
-
-
-
-
-
-
-
-
-
-
-### METHOD 
+### METHOD -- not reviewed in class, happy googling
 from itertools import chain, repeat
 
 def count_arara(n):
