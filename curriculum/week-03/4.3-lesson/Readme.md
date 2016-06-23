@@ -57,7 +57,7 @@ _Note: It's also important to do a proper cost benefit-analysis and to consider 
 
 [Full Project 3 Details](../../../projects/01-projects-weekly/project-03/readme.md)
 
-This week we learned how to use scikit-learn to run linear regression models, how Goals & Business Objectives translate to Model Fit, and also how to define and apply the principles of regularization & optimization. We worked a lot with housing data and predicting prices. Now we're going to use these skills to dig into a rich set of data!
+This week we learned how to use scikit-learn to run linear regression models, and also how to define and apply the principles of regularization & optimization. Today we will hone our understanding of goals & business objectives through the data flow process and how to translate Model Fit into these objectives/goals. We worked a lot with housing data and predicting prices. Now we're going to use these skills to dig into a rich set of data!
 
 The state of Iowa provides many data sets on their website, including [this dataset](https://www.dropbox.com/sh/pf5n5sgfgiri3i8/AACkaMeL_i_WgZ00rpxOOcysa?dl=0) which contains transactions for all stores that have a class E liquor license. You can choose one of the following two scenarios.
 
