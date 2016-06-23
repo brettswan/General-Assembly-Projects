@@ -16,7 +16,7 @@ Let's apply Linear Regression Models to Project #3 data!
 
 #### Starter code
 
-Open [starter code](./code/starter-code/loss-functions-regression-metrics-practice.ipynb) for exercises and explanations. 
+Open [starter code](./code/starter_code/loss-functions-regression-metrics-practice.ipynb) for exercises and explanations. 
 
 Solutions from this lab session can be used for Project #3 submissions. 
 ---
