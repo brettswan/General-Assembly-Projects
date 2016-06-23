@@ -1,8 +1,8 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Lab: Linear Regression Project #2
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Lab: Linear Regression application to Project #3
 
 ### Overview
 
-Let's apply Linear Regression Models to Project #3 data
+Let's apply Linear Regression Models to Project #3 data!
 
 #### Requirements
 
