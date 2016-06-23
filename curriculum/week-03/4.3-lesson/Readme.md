@@ -55,7 +55,7 @@ _Note: It's also important to do a proper cost benefit-analysis and to consider 
 
 ### Project 3 Overview - Group Activity
 
-[Full Project 3 Details](../../projects/01-projects-weekly/project-03/readme.md)
+[Full Project 3 Details](../../../projects/01-projects-weekly/project-03/readme.md)
 
 This week we learned how to use scikit-learn to run linear regression models, how Goals & Business Objectives translate to Model Fit, and also how to define and apply the principles of regularization & optimization. We worked a lot with housing data and predicting prices. Now we're going to use these skills to dig into a rich set of data!
 
